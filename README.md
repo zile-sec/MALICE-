@@ -1,3 +1,2 @@
-# MALICE
-Detects scans, breaches &amp; anomalies from firewall logs, Nmap scans &amp; live packets. Parses logs → scans → captures → labels attacks with heuristics → trains Keras model in one pipeline. Lightweight, offline, zero SaaS. If it moves wrong, MALICE sees it.
-⭐ Star if you want smarter defense.
+# Threat-Detection-Neural-Network
+ The neural network was specifically tailored for threat detection. The model implements a binary classification neural network, binary cross-entropy loss function, and accuracy metric for threat detection. Allowing it to monitor and detect potential threats dynamically.
